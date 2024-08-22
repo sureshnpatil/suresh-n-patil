@@ -1,3 +1,6 @@
+#proogram to find count of a digit of a number
+
+
 input_num=input("Enter the number to find count of digits of a number :")
 count_dict=dict()
 for i in input_num:
